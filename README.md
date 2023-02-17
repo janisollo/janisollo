@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janisollo
-- 👀 I’m interested in Web-Development and learning new strugg
-- 🌱 I’m currently learning PHP 🤓
+- 👀 I’m working as a wordpress developer
+- 🌱 I’m currently learning the MERN stack 🤓
 
 
 <!---
