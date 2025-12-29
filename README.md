@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @janisollo
-- 👀 I’m working as a wordpress developer
-- 🌱 I’m currently learning the MERN stack 🤓
 
 
 <!---
